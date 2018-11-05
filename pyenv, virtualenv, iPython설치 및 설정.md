@@ -105,15 +105,22 @@ cd python
 
 ---
 
+#### 버전 보기, 설정
+`pyenv versions`
+`pyenv global 버전`
+
 ## iPython
 
 기본 파이썬 셸보다 다양한 기능을 사용할 수 있도록 해주는 셸을 제공해줌
 
-## iPython 설치
+## iPython, jupyter notebook 설치
 
 `pip install ipython`
 
 커맨드라인에서 `ipython`실행
+
+`pip install notebook`
+커맨드라인에서 `jupyter notebook`실행
 
 ---
 
